@@ -7,7 +7,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define NUM_CHANNELS 2
+#define NUM_CHANNELS 1
 
 #if NUM_CHANNELS == 1
     #define CHANNELMASK SL_SPEAKER_FRONT_CENTER
